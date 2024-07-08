@@ -120,7 +120,7 @@ export const IntervewDetails = [
   {
     name: "Maria",
     role: "Senior Python Developer",
-    imgUrl: "/assets/images/person-2.jpg",
+    imgUrl: "/assets/images/person-3.jpg",
     date: "19 Feb 2024",
     time: "10:30 AM",
     firstLevelMarks: "7/10",
@@ -195,7 +195,7 @@ export const IntervewDetails = [
   {
     name: "Emma Garcia",
     role: "Product Manager",
-    imgUrl: "/assets/images/person-1.jpg",
+    imgUrl: "/assets/images/person-3.jpg",
     date: "25 Feb 2024",
     time: "11:00 AM",
     firstLevelMarks: "9/10",
@@ -225,7 +225,7 @@ export const IntervewDetails = [
   {
     name: "Olivia Hernandez",
     role: "System Administrator",
-    imgUrl: "/assets/images/person-2.jpg",
+    imgUrl: "/assets/images/person-3.jpg",
     date: "27 Feb 2024",
     time: "9:30 AM",
     firstLevelMarks: "8/10",
@@ -240,7 +240,7 @@ export const IntervewDetails = [
   {
     name: "Ella Moore",
     role: "Data Scientist",
-    imgUrl: "/assets/images/person-2.jpg",
+    imgUrl: "/assets/images/person-3.jpg",
     date: "28 Feb 2024",
     time: "10:30 AM",
     firstLevelMarks: "8/10",
